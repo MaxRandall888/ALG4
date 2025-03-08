@@ -1,1 +1,2 @@
-# ALG4
+Max Randall
+maxrandall@chapman.edu
